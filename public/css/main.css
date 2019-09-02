@@ -1,0 +1,18 @@
+.card-body {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.label {
+    font-size: 18px;
+    margin-bottom: 0px;
+    line-height: 1.6;
+}
+
+.containerpad {
+    margin-top: 40px;
+}
+
+.btn {
+    margin: auto;
+    display: block;
+}
